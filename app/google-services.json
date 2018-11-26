@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "993083517228",
+    "firebase_url": "https://bolo-7a0ac.firebaseio.com",
+    "project_id": "bolo-7a0ac",
+    "storage_bucket": "bolo-7a0ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993083517228:android:722975a1c00b4d7e",
+        "android_client_info": {
+          "package_name": "com.kriations.bolo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993083517228-9rqi3pirj9r0fl8jd47rioqqji4gar29.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kriations.bolo",
+            "certificate_hash": "70075e6c71982a1703bd8986edf9d9e4f0757aaf"
+          }
+        },
+        {
+          "client_id": "993083517228-3pn5nl43b8uordige9c84a3eq3o99lu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9PswHgDacqBzNxRqatlnFEIvRmA5_dwo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993083517228-3pn5nl43b8uordige9c84a3eq3o99lu4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
